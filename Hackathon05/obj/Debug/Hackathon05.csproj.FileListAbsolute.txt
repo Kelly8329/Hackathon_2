@@ -1,0 +1,13 @@
+C:\Users\Kellyda\source\repos\Hackathon03\Hackathon05\bin\Debug\Hackathon05.exe.config
+C:\Users\Kellyda\source\repos\Hackathon03\Hackathon05\bin\Debug\Hackathon05.exe
+C:\Users\Kellyda\source\repos\Hackathon03\Hackathon05\bin\Debug\Hackathon05.pdb
+C:\Users\Kellyda\source\repos\Hackathon03\Hackathon05\obj\Debug\Hackathon05.csproj.CoreCompileInputs.cache
+C:\Users\Kellyda\source\repos\Hackathon03\Hackathon05\obj\Debug\Hackathon05.exe
+C:\Users\Kellyda\source\repos\Hackathon03\Hackathon05\obj\Debug\Hackathon05.pdb
+C:\Users\Kellyda\source\repos\Hackathon03\Hackathon05\obj\Debug\Hackathon05.csprojResolveAssemblyReference.cache
+C:\Users\Kellyda\Desktop\Hackathon03\Hackathon05\bin\Debug\Hackathon05.exe.config
+C:\Users\Kellyda\Desktop\Hackathon03\Hackathon05\bin\Debug\Hackathon05.exe
+C:\Users\Kellyda\Desktop\Hackathon03\Hackathon05\bin\Debug\Hackathon05.pdb
+C:\Users\Kellyda\Desktop\Hackathon03\Hackathon05\obj\Debug\Hackathon05.csproj.CoreCompileInputs.cache
+C:\Users\Kellyda\Desktop\Hackathon03\Hackathon05\obj\Debug\Hackathon05.exe
+C:\Users\Kellyda\Desktop\Hackathon03\Hackathon05\obj\Debug\Hackathon05.pdb

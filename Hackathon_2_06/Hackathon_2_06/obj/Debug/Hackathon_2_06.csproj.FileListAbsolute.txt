@@ -1,0 +1,13 @@
+C:\Users\Kellyda\Desktop\Hackathon_2\Hackathon_2_06\Hackathon_2_06\bin\Debug\Hackathon_2_06.exe.config
+C:\Users\Kellyda\Desktop\Hackathon_2\Hackathon_2_06\Hackathon_2_06\bin\Debug\Hackathon_2_06.exe
+C:\Users\Kellyda\Desktop\Hackathon_2\Hackathon_2_06\Hackathon_2_06\bin\Debug\Hackathon_2_06.pdb
+C:\Users\Kellyda\Desktop\Hackathon_2\Hackathon_2_06\Hackathon_2_06\bin\Debug\EntityFramework.dll
+C:\Users\Kellyda\Desktop\Hackathon_2\Hackathon_2_06\Hackathon_2_06\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kellyda\Desktop\Hackathon_2\Hackathon_2_06\Hackathon_2_06\bin\Debug\EntityFramework.xml
+C:\Users\Kellyda\Desktop\Hackathon_2\Hackathon_2_06\Hackathon_2_06\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kellyda\Desktop\Hackathon_2\Hackathon_2_06\Hackathon_2_06\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\Kellyda\Desktop\Hackathon_2\Hackathon_2_06\Hackathon_2_06\obj\Debug\Hackathon_2_06.csprojResolveAssemblyReference.cache
+C:\Users\Kellyda\Desktop\Hackathon_2\Hackathon_2_06\Hackathon_2_06\obj\Debug\Hackathon_2_06.csproj.CoreCompileInputs.cache
+C:\Users\Kellyda\Desktop\Hackathon_2\Hackathon_2_06\Hackathon_2_06\obj\Debug\Hackathon_2_06.csproj.CopyComplete
+C:\Users\Kellyda\Desktop\Hackathon_2\Hackathon_2_06\Hackathon_2_06\obj\Debug\Hackathon_2_06.exe
+C:\Users\Kellyda\Desktop\Hackathon_2\Hackathon_2_06\Hackathon_2_06\obj\Debug\Hackathon_2_06.pdb

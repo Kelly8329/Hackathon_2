@@ -1,0 +1,12 @@
+C:\Users\Kellyda\Desktop\Hackathon03\Hackathon05Tests\bin\Debug\Hackathon05Tests.dll
+C:\Users\Kellyda\Desktop\Hackathon03\Hackathon05Tests\bin\Debug\Hackathon05Tests.pdb
+C:\Users\Kellyda\Desktop\Hackathon03\Hackathon05Tests\bin\Debug\Hackathon05.exe
+C:\Users\Kellyda\Desktop\Hackathon03\Hackathon05Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Kellyda\Desktop\Hackathon03\Hackathon05Tests\bin\Debug\Hackathon05.pdb
+C:\Users\Kellyda\Desktop\Hackathon03\Hackathon05Tests\bin\Debug\Hackathon05.exe.config
+C:\Users\Kellyda\Desktop\Hackathon03\Hackathon05Tests\bin\Debug\zh-Hant\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Kellyda\Desktop\Hackathon03\Hackathon05Tests\obj\Debug\Hackathon05Tests.csprojResolveAssemblyReference.cache
+C:\Users\Kellyda\Desktop\Hackathon03\Hackathon05Tests\obj\Debug\Hackathon05Tests.csproj.CoreCompileInputs.cache
+C:\Users\Kellyda\Desktop\Hackathon03\Hackathon05Tests\obj\Debug\Hackathon05Tests.csproj.CopyComplete
+C:\Users\Kellyda\Desktop\Hackathon03\Hackathon05Tests\obj\Debug\Hackathon05Tests.dll
+C:\Users\Kellyda\Desktop\Hackathon03\Hackathon05Tests\obj\Debug\Hackathon05Tests.pdb
